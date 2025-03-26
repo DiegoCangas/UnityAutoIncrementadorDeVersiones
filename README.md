@@ -1,4 +1,4 @@
-# Unity Incrementador Automatico de Numero de Compilacion y de Codigos
+# Unity Incrementador Automatico de Numero de Compilacion y de Vesion
 Script que permite automatizar la actualizacion de versiones en Unity
 
 ### Instrucciones
