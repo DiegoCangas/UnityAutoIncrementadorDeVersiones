@@ -1,5 +1,5 @@
 # Unity: Incrementador Automatico de Numero de Compilacion y de Version
-Script que permite automatizar la actualizacion de versiones en Unity
+Script que permite automatizar la actualizacion de numero de compilacion y version en Unity para android
 
 ### Instrucciones
 1. copiar el archivo "AutoIncrementBuildVersion.cs" a la carpeta "Editor" dentro de la carpeta "Assets" del proyecto (si la carpeta Editor no existe habra que crearla)
